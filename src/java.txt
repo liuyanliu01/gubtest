@@ -1,2 +1,3 @@
 java is good
 hello java
+secord updata java.txt add something
